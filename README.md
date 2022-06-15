@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sap12na!!!!!
 - 👀 I’m interested in data structures, c++, oracal, web development, python!!!! 
-- 🌱 I'm Freasher, want to explore the corporate world!!!! 
+- 🌱 I'm Freasher!!!! 
 - 💞️ I’m looking to collaborate on some projects!!!!!
 - 📫 I'm a btech 4th year student!!!!
 <!---
