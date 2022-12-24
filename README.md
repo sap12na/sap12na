@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sap12na!!!!!
+- 👋 Hi, I’m @sap12na!!!!
 - 👀 I’m interested in data structures, c++, oracal, web development, python!!!! 
 - 🌱 I'm Freasher!!!! 
 - 💞️ I’m looking to collaborate on some projects!!!!!
